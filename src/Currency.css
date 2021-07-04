@@ -1,0 +1,41 @@
+.Converter {
+    width: 100%;
+    padding: 0 15%;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .Form {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .From input,
+  select {
+    padding: 10px;
+    margin: 10px 15px;
+    border-radius: 7px;
+    border: 2px solid rgba(250, 7, 7, 0.5);
+    
+  }
+  .From button {
+    padding: 10px 15px;
+    border-radius: 20px;
+    background: rgb(126, 143, 131);
+    color: solid bold rgb(53, 44, 44);
+    border: 7px;
+  }
+  .Converter h3 {
+    background-color: #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 30px;
+  }
+  .Converter h2 span {
+    color: rgb(214, 15, 31);
+  }
+  .card{
+      border: grey;
+  }
