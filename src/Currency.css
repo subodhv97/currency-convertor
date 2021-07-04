@@ -1,8 +1,12 @@
 .Converter {
-    width: 100%;
-    padding: 0 15%;
+    width: 500px;
+    height: 500px;
+    background: rgb(227, 231, 236);
+    padding: 15%;
     box-sizing: border-box;
     text-align: center;
+    display: block;
+    border-radius: 20px;
   }
   .Form {
     display: flex;
